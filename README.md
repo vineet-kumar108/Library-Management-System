@@ -40,5 +40,5 @@ Follow these steps to get the Library Management System up and running on your l
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/vineet-kumar108/library-management-system.git
    cd library-management-system
